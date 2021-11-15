@@ -37,7 +37,7 @@ e.	Export as TIF (middle)
 a.	https://imagej.net/Fiji/Downloads
 4.	Install the BioVoxxel Toolbox for ImageJ if you haven’t already
 a.	https://imagej.net/BioVoxxel_Toolbox
-5.	Download SmootherSpeckling.py from: https://github.com/kyleButler9/repeatedSpeckleInspector
+5.	Download SmootherSpeckling.py from: https://github.com/kyleButler9/Repeat_Speckle_Inspector
 a.	Click the green “Code” button on the home screen
 b.	Then click “Download ZIP”
 c.	Unzip the file
